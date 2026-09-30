@@ -50,7 +50,7 @@ select *
 from drivers_license
 where car_make = 'Tesla' and car_model= 'Model S' and hair_color= 'red';
 
-//Direct killer was Jeremy Bowers.
+--Direct killer was Jeremy Bowers.
 
 -----// orchestra info 
 select *
@@ -64,4 +64,4 @@ select *
 from person
 where id = 24556 or id = 99716 ;
 
-//Who hired the killer? Miranda Priestly.
+--Who hired the killer? Miranda Priestly.
